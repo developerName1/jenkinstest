@@ -1,2 +1,0 @@
-# jenkinstest
-testing jenkins triggers
